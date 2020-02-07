@@ -137,5 +137,5 @@ int main()
 	hashTable.DeleteItem("John");
 	cout << "CONTACTS: \n-------------------------\n";
 	hashTable.Display();
-	cout << "-------------------------\n\n"; 
+	cout << "-------------------------\n\n";
 }
